@@ -1,0 +1,34 @@
+WIP- Work In Progress
+Done- fully finished and implemented code
+Test - Finished code that has not been tested
+Not-Started - Code that needs to be worked on and not started by anyone
+
+Shape---Done
+block---Done
+Observer---Done
+Subect---Done
+Subject---Done
+queue---Done
+
+Blind---Test
+Heavy---Test
+Force---Test
+
+Main--- PRIORITY
+    MAIN IS CAUSING A SEGFAULT RELATING TO Observer
+    Observer is not beign detach at the end of the code causing a segmentation fault!!!!!!! Fix this somehow
+
+    textObserver--- FIX ATTACH AND DETACH
+    XWindow--- FIX ATTACH AND DETACH
+    Canvas--- FIX ATTACH AND DETACH
+    
+
+Level--- WIP
+    Need to finish making level4's effects - Started in the drop command found in player
+
+player---WIP
+    L, Z, T, O, Z, S, J
+    no random - will use samelogic and sequence, make sure to read the documentation to know what to do
+    sequence - sequence has been started, want to make sure it is being done correctly, make getSequence in level-imple and level.h
+
+    Score, need to keep track of a block total health and the pieces it connects too.
